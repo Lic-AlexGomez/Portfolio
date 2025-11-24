@@ -7,7 +7,9 @@ import Projects from '@/components/sections/Projects'
 import Experience from '@/components/sections/Experience'
 import Contact from '@/components/sections/Contact'
 
+
 const HomePage = () => {
+  
   return (
     <div className="min-h-screen">
       <Header />
